@@ -1,0 +1,25 @@
+#slider{
+
+    width: 1200px;
+    height: 100%;
+    margin: auto;
+}
+#contenedorTemp{
+
+    width: 1560px;
+    height: 100%;
+    margin: auto;
+}
+
+#gridTemp{
+
+    width: fit-content;
+    height: fit-content;
+}
+
+#pagin{
+
+    height: 100px;
+    color: black;
+    display: inline-block;
+}
